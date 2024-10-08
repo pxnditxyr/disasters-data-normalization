@@ -1,4 +1,4 @@
-const addressToCoordinates = {
+export const addressToCoordinates = {
   "20 de octubre": {
     longitude: -16.509787513757274,
     latitude: -68.09888534013534
