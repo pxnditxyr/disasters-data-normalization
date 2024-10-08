@@ -739,7 +739,7 @@ date,natural-disaster,address
 2003-12-31,inundacion,Calacoto
 2003-12-31,inundacion,Jardin Japones
 2004-01-01,Deslizamiento,lipari-Valle Hermoso
-2004-01-01,Deslizamiento,Avenida Litoral 
+2004-01-01,Deslizamiento,Avenida Litoral
 2004-01-01,Deslizamiento,Avenida Periferica-Callapa
 2004-01-01,inundacion,Alto Pampahasi
 2004-01-01,inundacion,Zona Valle Hermoso
@@ -1197,7 +1197,8 @@ date,natural-disaster,address
 2005-03-07,No hubo desastre,Sin direccion
 2005-03-08,No hubo desastre,Sin direccion
 2005-03-09,No hubo desastre,Sin direccion
-2005-03-10,Deslizamiento,Avenida del Policia y los Olivos-Alto Seguencoma
+2005-03-10,Deslizamiento,Avenida del Policia
+2005-03-10,Deslizamiento,los Olivos-Alto Seguencoma
 2005-03-11,No hubo desastre,Sin direccion
 2005-03-12,No hubo desastre,Sin direccion
 2005-03-13,No hubo desastre,Sin direccion
@@ -1540,7 +1541,8 @@ date,natural-disaster,address
 2006-02-10,No hubo desastre,Sin direccion
 2006-02-11,No hubo desastre,Sin direccion
 2006-02-12,inundacion,Puente Irpavi
-2006-02-12,Deslizamiento,Avenida Leones y Libertadores
+2006-02-12,Deslizamiento,Avenida Leones
+2006-02-12,Deslizamiento,Avenida Libertador
 2006-02-12,Deslizamiento,Villa Armonia
 2006-02-13,No hubo desastre,Sin direccion
 2006-02-14,No hubo desastre,Sin direccion
